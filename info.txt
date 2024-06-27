@@ -1,2 +1,2 @@
 Name: Dream
-Gender: Male
+Sex: Male
